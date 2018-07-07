@@ -36,3 +36,7 @@ h1 {
 	font-family: 'Libre Baskerville', serif;
 	border-bottom: 1px solid #ccc;
 }
+
+#logo {
+	border: 5px rgb(152,173,166) solid;
+}
